@@ -1,0 +1,17 @@
+{
+  "name": "fluxvid",
+  "version": "1.0.0",
+  "description": "a plateform like youtube that will give you features like youtube...",
+  "keywords": [
+    "javascript",
+    "backend",
+    "angryheart"
+  ],
+  "license": "ISC",
+  "author": "Pavan Prajapati",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
